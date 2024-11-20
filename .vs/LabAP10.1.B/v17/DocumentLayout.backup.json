@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vital\\source\\repos\\LabAP10.1.B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63878B6E-FC92-4289-B1F3-C692798C2EAB}|UnitTest10.1.\u0412\\UnitTest10.1.\u0412.vcxproj|C:\\Users\\vital\\source\\repos\\LabAP10.1.B\\UnitTest10.1.\u0412\\UnitTest10.1.\u0412.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63878B6E-FC92-4289-B1F3-C692798C2EAB}|UnitTest10.1.\u0412\\UnitTest10.1.\u0412.vcxproj|solutionrelative:UnitTest10.1.\u0412\\UnitTest10.1.\u0412.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BE3102-0869-48F0-A1A6-0E61D43C4BD1}|LabAP10.1.B\\LabAP10.1.B.vcxproj|C:\\Users\\vital\\source\\repos\\LabAP10.1.B\\LabAP10.1.B\\LabAP10.1.B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0BE3102-0869-48F0-A1A6-0E61D43C4BD1}|LabAP10.1.B\\LabAP10.1.B.vcxproj|solutionrelative:LabAP10.1.B\\LabAP10.1.B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest10.1.\u0412.cpp",
+              "DocumentMoniker": "C:\\Users\\vital\\source\\repos\\LabAP10.1.B\\UnitTest10.1.\u0412\\UnitTest10.1.\u0412.cpp",
+              "RelativeDocumentMoniker": "UnitTest10.1.\u0412\\UnitTest10.1.\u0412.cpp",
+              "ToolTip": "C:\\Users\\vital\\source\\repos\\LabAP10.1.B\\UnitTest10.1.\u0412\\UnitTest10.1.\u0412.cpp",
+              "RelativeToolTip": "UnitTest10.1.\u0412\\UnitTest10.1.\u0412.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T09:15:07.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LabAP10.1.B.cpp",
+              "DocumentMoniker": "C:\\Users\\vital\\source\\repos\\LabAP10.1.B\\LabAP10.1.B\\LabAP10.1.B.cpp",
+              "RelativeDocumentMoniker": "LabAP10.1.B\\LabAP10.1.B.cpp",
+              "ToolTip": "C:\\Users\\vital\\source\\repos\\LabAP10.1.B\\LabAP10.1.B\\LabAP10.1.B.cpp",
+              "RelativeToolTip": "LabAP10.1.B\\LabAP10.1.B.cpp",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T16:45:33.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
